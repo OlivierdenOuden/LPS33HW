@@ -1,16 +1,16 @@
-#*******************************************************#
-#														#
-#		LPS33HW - ST Electronics Pressure sensor		#
-#														#
-#		Main script with defenitions, can be called		#
-#		by a read-out script.							#
-#														#
-#		Olivier den Ouden								#
-#		Royal Netherlands Meterological Institute		#
-#		RD Seismology and Acoustics						#
-#		https://www.seabirdsound.org 					#
-#														#
-#*******************************************************#
+#********************************************************************************#
+#														
+#		LPS33HW - ST Electronics Pressure sensor		
+#														
+#		Main script with defenitions, can be called		
+#		by a read-out script.							
+#														
+#		Olivier den Ouden							
+#		Royal Netherlands Meterological Institute		
+#		RD Seismology and Acoustics						
+#		https://www.seabirdsound.org 					
+#														
+#********************************************************************************#
 
 # Modules
 import smbus
